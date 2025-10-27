@@ -65,14 +65,3 @@ var photo_students = "image_2025-10-22_13-29-44.png"; //диплом, студ
 var photo_zagran   = "image_2025-10-22_13-29-44.png"; //загран
 
 var signPng           = "sign.png"; //подпись
-// Можно добавить еще, если надо
-
-
-
-
-
-
-
-
-
-
