@@ -25,7 +25,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Adjust path if your static site is in a different folder
-          path: ./FAKE/
+          path: FAKE/
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
